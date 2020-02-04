@@ -1,7 +1,6 @@
 "# 18-020019-LAB-1" 
-
--JVEE L. AGUINALDO
--BSCS -2A
--FEBRUARY 4,2020
--LAB ACTIVITY 1
--My first GitHub commit!
+- JVEE L. AGUINALDO
+- BSCS -2A
+- FEBRUARY 4,2020
+- LAB ACTIVITY 1
+- My first GitHub commit!
