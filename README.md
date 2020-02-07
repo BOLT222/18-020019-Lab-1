@@ -5,4 +5,8 @@
 - LAB ACTIVITY 1
 - My first GitHub commit!
 
+
 Jvee pyramid
+pls dandan sungbatam tuy pangayat ko
+Hatdog
+
